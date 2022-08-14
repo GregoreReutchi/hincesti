@@ -320,8 +320,8 @@ div.exploreaza  h2 {
         color: rgb(129, 37, 37);
         text-decoration: none;
         font-size: 14px;
-        padding-right: 1.5%;
-        padding-left: 1.5%;
+        padding-right: 1.8%;
+        padding-left: 1.8%;
         font-family: 'MedievalSharp', cursive;
     }
 
@@ -338,7 +338,7 @@ div.exploreaza  h2 {
     .exploreaza {
 
         left: 58%;
-        top: 15%;
+        top: 11%;
 
     }
 
